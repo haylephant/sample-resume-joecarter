@@ -1,0 +1,43 @@
+body {
+	background-color:green;
+	color:black;
+	font-size:20px;
+
+	/*background-image:url('../img/jays.png');
+	background-repeat:repeat;
+	background-size:30px; - size isn't included in background shorthand*/
+
+	font:900 italic 20px sans-serif;
+	/*font families always go last*/
+}
+
+
+
+h2 {
+	font-size: 32px;
+	color: blue;
+}
+
+.first h2 {
+	color: tomato;
+}
+
+section p {
+	
+}
+
+.first {
+	background-color: yellow;
+}
+
+section {
+	background-color: red;
+}
+
+.objective {
+	background-color: orange;
+}
+
+#oliver {
+	background-color: blue;
+}
